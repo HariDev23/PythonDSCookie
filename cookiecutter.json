@@ -1,0 +1,12 @@
+{
+    "project_owner": "some-name",
+    "project_slug": "some-project",
+    "description": "A short description of the project.",
+    "open_source_license": ["MIT", "BSD-3-Clause", "No license file"],
+    "need_ga4api_utils": "y",
+    "need_snowflake_utils": "y",
+    "need_bigquery_utils": "y",
+    "need_postgress_utils": "y",
+    "need_SQLserver_utils": "y"
+
+  }
